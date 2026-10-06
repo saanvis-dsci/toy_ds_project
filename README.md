@@ -1,3 +1,4 @@
 # toy_ds_project
 
-project creation fate: 06/10/2026
+project creation date: 06/10/2026
+author: "saanvi s"
